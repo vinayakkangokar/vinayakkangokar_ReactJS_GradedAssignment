@@ -1,0 +1,15 @@
+.text-xs {
+  font-size: 0.65rem;
+}
+
+.text-sm {
+  font-size: 0.9rem;
+}
+
+.navigation-tab:hover {
+  cursor: pointer;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
